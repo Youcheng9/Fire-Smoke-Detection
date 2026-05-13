@@ -19,6 +19,9 @@ This is an applied machine learning project that includes:
 
 Early detection of fire and smoke is important for reducing damage and improving emergency response. Traditional sensor-based systems can be limited by range, placement, response time, and cost. An alternative to the solution is to utilize computer vision-based system that can detect visible fire and smoke from camera feeds, UAV images, or surveillance videos.
 
+## Project Pipelines:
+Preprocessing data --> Model training --> Model evaluation (Val Dataset) --> Inference on test dataset and UAV images --> Video Demo
+
 ## Dataset
 
 Datasets were pulled from the following sources, make sure to give proper citations to the original owners if you are using it for research or projects.
