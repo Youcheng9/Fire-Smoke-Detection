@@ -112,6 +112,7 @@ The model performs well in detecting smoke, while fire detection remains more ch
 
 - Create a virtual environment:
   python -m venv .venv  
+  python 3.10 was used in this project
 
 - Activate the environment:  
   Windows: .venv\Scripts\activate  
