@@ -1,3 +1,5 @@
 *.pt
 .fire-env
 data/
+runs/
+*.mp4
